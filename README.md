@@ -59,5 +59,5 @@ Responsive grid layout design
 
 👨‍💻 Author
 
-Created by Snehal ✨
+Created by SK ✨
 A learning project to improve React skills and frontend development understanding.
